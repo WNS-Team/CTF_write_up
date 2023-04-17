@@ -135,7 +135,7 @@ data[26] = 95
 data[27] = 69
 data[28] = 109
 key = 0
-while key <= len(ar):
+while key <= len(ar)-1:
     for i in range(len(ar)):
         if ar[i] == key:
             if key == len(ar):
