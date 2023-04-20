@@ -1,12 +1,30 @@
+# coding=utf-8
 # resolved
 
-from Crypto.Util.number import long_to_bytes
+def solve(line, argument):
+    match argument:
+        case 1:
+            for j in line:
+                print(chr(int(j, 16)), end='')
+        case 2:
+            for j in line:
+                print(chr(int(j, 2)), end='')
+        case 3:
+            for j in line:
+                print(chr(int(j, 8)), end='')
+        case 4:
+            for j in line:
+                print(chr(int(j)), end='')
+        case 5:
+            for j in line:
+                print(chr(int(j[2:], 16)), end='')
+        case default:
+            exit()
 
-print(str(long_to_bytes(1129268293))[2:-1], end='')  # 1
-print(str(long_to_bytes(4348283))[2:-1], end='')  # 2
-print('w0w_wh0l3_', end='')  # 3
-part_4 = [102, 97, 109, 49, 108, 121, 95, 116, 48, 95]  # 4
-for i in part_4:
-    print(chr(i), end='')
-part_5 = 'gath3r}'
-print(part_5)
+i = 1
+with open("Семья.txt", 'rb') as file:
+    for lines in file.readlines():
+        line = str(lines)[2:-5].split(' ')
+        solve(line, i)
+        i += 1
+
