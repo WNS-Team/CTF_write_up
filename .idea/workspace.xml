@@ -5,8 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3230a3d2-7524-483e-b2cf-38641a7c0be0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/codeby.games/SOREVI/Crypto/Основы RSA 1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/Файлы PYC.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeby.games/Reverse/(resolved) Файлы PYC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Admin/Кодировщик.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(resolved) Весёлый RSA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(resolved) Забытый.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(resolved) Искусство войны.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(resolved) Неразгаданный шифр.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(resolved) Ничего особенного.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(resolved) Огромные цифры.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(resolved) Письмо.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(resolved) Подозреваемый.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/(Письмо) english_trigrams.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/Абсолютная безопасность.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/Абсолютная безопасность.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Crypto/Письмо.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Forensic/Аноним с GitHub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Forensic/Аноним с GitHub[email].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Forensic/Безопасный рандом.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Forensic/Безопасный рандом.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Pwn/(resolved) Админ - програмист.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Pwn/(resolved) Вредный пингвин.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Pwn/(resolved) Обратная сторона Луны.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Pwn/(resolved) Привет, Сквидвард!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Pwn/(resolved) Я хочу купить этот флаг!!!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Pwn/Регулировщик громкости.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Quests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Quests/Подземелье.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/(resolved) Детский реверс.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/(resolved) Перестановки.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/(resolved) Файлы PYC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/(resolved) Функциональный ад.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/(resolved) Шифрование или что-то в этом роде, не знаю.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/ZipLock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/ZipLock.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Reverse/Функциональный ад.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/(resolved) Банка для печенья.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/(resolved) Обычная страница.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/(resolved) Поздравительное приложение.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/(resolved) Приключение с флагом.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/(resolved) Разминка с JWT +  Момент с JWT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/(resolved) Я не робот!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/pub.key.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeby.games/Web/Клиент всегда прав.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +87,28 @@
     "last_opened_file_path": "C:/Users/WNS/Documents/GitHub/codeby.games"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Основы RSA 1">
+    <configuration name="Основы RSA 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeby.games" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codeby.games/SOREVI/Crypto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codeby.games/SOREVI/Crypto/Основы RSA 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="(resolved) Файлы PYC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codeby.games" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Основы RSA 1" />
         <item itemvalue="Python.(resolved) Файлы PYC" />
       </list>
     </recent_temporary>
