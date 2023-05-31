@@ -16,7 +16,6 @@ while a:
         # print(x)
         fun = x[len(x) - 4] + x[len(x) - 3] + x[len(x) - 2]
         otv = bytes(str(eval(fun)), 'utf-8')
-        #otv = eval(fun)
         print(otv)
         r.sendline(otv)
     if ch > 4:
